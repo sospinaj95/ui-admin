@@ -10,6 +10,11 @@
       "StackName": "amplify-uiadmin-dev-110435",
       "StackId": "arn:aws:cloudformation:us-east-1:585143662949:stack/amplify-uiadmin-dev-110435/4b85fca0-a2e7-11ec-beb9-0ec92f60fb8b",
       "AmplifyAppId": "d2k7uvs5vf3shy"
+    },
+    "categories": {
+      "auth": {
+        "uiadmin0583d19d": {}
+      }
     }
   },
   "qa": {
@@ -23,6 +28,11 @@
       "StackName": "amplify-uiadmin-qa-111719",
       "StackId": "arn:aws:cloudformation:us-east-1:585143662949:stack/amplify-uiadmin-qa-111719/0f9f2390-a2e9-11ec-829c-0ac2abec0f4b",
       "AmplifyAppId": "d2k7uvs5vf3shy"
+    },
+    "categories": {
+      "auth": {
+        "uiadmin0583d19d": {}
+      }
     }
   }
 }
