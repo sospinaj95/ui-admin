@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-uiadmin-dev-110435-authRole",
+      "UnauthRoleArn": "arn:aws:iam::585143662949:role/amplify-uiadmin-dev-110435-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::585143662949:role/amplify-uiadmin-dev-110435-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-uiadmin-dev-110435-deployment",
+      "UnauthRoleName": "amplify-uiadmin-dev-110435-unauthRole",
+      "StackName": "amplify-uiadmin-dev-110435",
+      "StackId": "arn:aws:cloudformation:us-east-1:585143662949:stack/amplify-uiadmin-dev-110435/4b85fca0-a2e7-11ec-beb9-0ec92f60fb8b",
+      "AmplifyAppId": "d2k7uvs5vf3shy"
+    }
+  },
+  "qa": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-uiadmin-qa-111719-authRole",
+      "UnauthRoleArn": "arn:aws:iam::585143662949:role/amplify-uiadmin-qa-111719-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::585143662949:role/amplify-uiadmin-qa-111719-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-uiadmin-qa-111719-deployment",
+      "UnauthRoleName": "amplify-uiadmin-qa-111719-unauthRole",
+      "StackName": "amplify-uiadmin-qa-111719",
+      "StackId": "arn:aws:cloudformation:us-east-1:585143662949:stack/amplify-uiadmin-qa-111719/0f9f2390-a2e9-11ec-829c-0ac2abec0f4b",
+      "AmplifyAppId": "d2k7uvs5vf3shy"
+    }
+  }
+}
